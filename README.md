@@ -1,0 +1,2 @@
+# PythonGuiPyQt5Calculadora
+CalculadoraUsandoInterfaceGraficaPyQt5
